@@ -1,4 +1,4 @@
-module github.com/johnsto/go-passwordless
+module github.com/polastre/go-passwordless
 
 go 1.14
 
