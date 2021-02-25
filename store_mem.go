@@ -4,8 +4,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/pzduniak/mcf"
 	"context"
+	"github.com/pzduniak/mcf"
 )
 
 // MemStore is a Store that keeps tokens in memory, expiring them periodically
