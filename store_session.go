@@ -7,8 +7,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/gorilla/securecookie"
 	"context"
+	"github.com/gorilla/securecookie"
 	"gopkg.in/dgrijalva/jwt-go.v2"
 )
 

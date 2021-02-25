@@ -5,8 +5,8 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/stretchr/testify/assert"
 	"context"
+	"github.com/stretchr/testify/assert"
 )
 
 type ctxTestKey int
